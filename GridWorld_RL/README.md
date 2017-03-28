@@ -1,0 +1,1 @@
+A basic implementation for a Q-Learning Reinforcement Learning with a Neural Network approximator. The model learns the optimal path that an agent should take to win a simple board game called Grid World.

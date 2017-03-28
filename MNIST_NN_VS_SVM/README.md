@@ -1,0 +1,1 @@
+A Python implementation for Multilayer Neural Network classifier on the MNIST Dataset. A comparison was made between the performance of Neural Networks VS Support Vector Machines, and a lot of parameters were tested.
